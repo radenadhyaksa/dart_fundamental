@@ -16,32 +16,45 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-===================================================================
+==============================================================
 
 
 learn about the basics of the Dart programming language. This is mandatory material to be mastered before learning object-oriented programming in Dart or before learning Flutter
 
-variable
-komentar
-Number
-Boolean
-String
-Dynamic
-Konversi tipe data
-Operator aritmatika
-Operator perbandingan
-Operator penugasan
-Operator Logika
-Operator Type test
-List
-Set
-Map
-Symbol
-If Else
-Switch Case
-Null
-Ternary Operator
-Null Safety
-For Loop
+- variable]
+- komentar
+- Number
+- Boolean
+- String
+- Dynamic
+- Konversi tipe data
+- Operator aritmatika
+- Operator perbandingan
+- Operator penugasan
+- Operator Logika
+- Operator Type test
+- List
+- Set
+- Map
+- Symbol
+- If Else
+- Switch Case
+- Null
+- Ternary Operator
+- Null Safety
+- For Loop
+- Function
+- Function Parameter
+- Optional Parameter
+- Named Parameter
+- Function return value
+- Function short expression
+- Inner function
+- Main function
+- Higher order function
+- Anonymous function
+- Scope
+- Closure
+- Recursive function
 
 
