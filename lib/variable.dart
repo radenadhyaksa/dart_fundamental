@@ -39,4 +39,16 @@ void main() {
   print(array1);
   print(array2);
 
+  
+  ///pembatas
+  print('===================');
+  late var value = getValue(); //variable ini baru akan dieksekusi ketika dipanggil/diprint di akhir
+  print('variable sudah dibuat');
+  print(value);  
+}
+
+///variable late
+String getValue() {
+  print('getValue() dipanggil');
+  return 'Raden Adhyaksa Rahardjo';
 }
