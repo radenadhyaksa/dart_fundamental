@@ -1,6 +1,5 @@
 void main() {
-  String name;
-  name = 'Raden Adhyaksa Rahardjo';
+  String name = 'Raden Adhyaksa Rahardjo';
 
   print(name);
 }
